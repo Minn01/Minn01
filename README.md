@@ -1,3 +1,3 @@
-👋 Hi, I’m @Minn01 or real name (Min Thant)
-currently a student studying at Thailand of an IT major
-I’m currently learning python, java, HTML, CSS, and C
+- 👋 Hi, I’m @Minn01 or real name (Min Thant)
+- Currently a student studying at Thailand of an IT major
+- I’m currently learning python, java, HTML, CSS, and C

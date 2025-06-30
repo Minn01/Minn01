@@ -10,9 +10,8 @@
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💪 Always ready to learn something new and improve myself
 - 📫 How to reach me: **min12200514@gmail.com**
-- ⚡ Interesting opinion: I think using **Vim motions** is the superior way to write code 
+- ⚡ Interesting opinion: I think using **Vim motions** is the superior way to write code
 
-<br>
 <br>
 
 <div align="start">

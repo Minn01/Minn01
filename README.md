@@ -14,9 +14,7 @@
 
 <br>
 
-<div align="start">
-<h1 style="border-bottom: none;">🤝 Connect with me</h1>
-</div>
+# 🤝 Connect with me
 
 <div align="start">
 

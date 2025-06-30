@@ -13,6 +13,7 @@
 - ⚡ Interesting opinion: I think using **Vim motions** is the superior way to write code
 
 <br>
+<br>
 
 # 🤝 Connect with me
 

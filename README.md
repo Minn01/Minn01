@@ -46,9 +46,9 @@
 </div>
 
 <h2 style="border-bottom: none;">🌱 Skills & Technologies I've Explored</h2>
-<h3>
+<h4>
         Throughout my journey, I've had the opportunity to work with a variety of languages, frameworks, and tools. Each one has contributed to my growth as a developer and fueled my passion for building creative solutions.
-</h3>
+</h4>
 
 ### 💻 Frontend Development
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin-right: 12px;">

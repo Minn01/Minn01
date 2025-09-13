@@ -155,6 +155,3 @@
 
 <!-- Animated SVG Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-aws-academy-graduate-aws-academy-cloud-foundations.png<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ee4b4f01-e13c-475e-ad13-3643b026f485" />
-

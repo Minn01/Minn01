@@ -156,4 +156,5 @@
 <!-- Animated SVG Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a086725d-3e40-40d1-807c-1084794ad27c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+aws-academy-graduate-aws-academy-cloud-foundations.png<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ee4b4f01-e13c-475e-ad13-3643b026f485" />
+

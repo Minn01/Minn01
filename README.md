@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 Currently a third year studying at IT at the <a href="https://www.au.edu">Assumption University</a> of Thailand
+- 🔭 Currently a fourth year studying at IT at the <a href="https://www.au.edu">Assumption University</a> of Thailand
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💪 Always ready to learn something new and improve myself
 - 📫 How to reach me: **min12200514@gmail.com**
